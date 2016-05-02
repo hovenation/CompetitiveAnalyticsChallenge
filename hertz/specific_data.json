@@ -1,0 +1,2472 @@
+{
+    "92626": {
+        "branch_zip_code": "92806", 
+        "branch_id": "9689", 
+        "equipment_list": [
+            {
+                "specs": [
+                    "34 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z34/22IC", 
+                        "classification": 340, 
+                        "year": 2006
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "34HA", 
+                        "classification": 340, 
+                        "year": 1999
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "795.00  ", 
+                    "monthlyRate": "1999.00 ", 
+                    "minimumRate": "320.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "320.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "450A", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "999.00  ", 
+                    "monthlyRate": "2465.00 ", 
+                    "minimumRate": "399.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "399.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2001
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1275.00 ", 
+                    "monthlyRate": "3235.00 ", 
+                    "minimumRate": "510.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "510.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "999.00  ", 
+                    "monthlyRate": "2465.00 ", 
+                    "minimumRate": "399.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "399.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z60/344W", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1275.00 ", 
+                    "monthlyRate": "3235.00 ", 
+                    "minimumRate": "510.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "510.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 2WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 467, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "890.00  ", 
+                    "monthlyRate": "2195.00 ", 
+                    "minimumRate": "355.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "355.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "835.00  ", 
+                    "monthlyRate": "2030.00 ", 
+                    "minimumRate": "325.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "325.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Genie", 
+                        "model": "Z45/254W", 
+                        "classification": 450, 
+                        "year": 2004
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "999.00  ", 
+                    "monthlyRate": "2465.00 ", 
+                    "minimumRate": "399.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "399.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600A", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1275.00 ", 
+                    "monthlyRate": "3235.00 ", 
+                    "minimumRate": "510.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "510.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "80 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Haulotte", 
+                        "model": "HA80JRT", 
+                        "classification": 800, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "800AJ", 
+                        "classification": 800, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "2375.00 ", 
+                    "monthlyRate": "6475.00 ", 
+                    "minimumRate": "820.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "820.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "125 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "1250AJP", 
+                        "classification": 930, 
+                        "year": 2005
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "4995.00 ", 
+                    "monthlyRate": "12739.00", 
+                    "minimumRate": "1800.00 ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "1800.00 ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "20 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-20/8N", 
+                        "classification": 200, 
+                        "year": 1997
+                    }
+                ], 
+                "rates": {
+                    "status": "ERROR  ", 
+                    "actualRate": "0.00      ", 
+                    "weeklyRate": "0.00    ", 
+                    "monthlyRate": "0.00    ", 
+                    "minimumRate": "0.00    ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "0.00    ", 
+                    "message": "No rates found for selected cat/class in branch/district/region               ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "30 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-30/20N", 
+                        "classification": 300, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E300AJ", 
+                        "classification": 300, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "935.00  ", 
+                    "monthlyRate": "2299.00 ", 
+                    "minimumRate": "355.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "355.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "34 ft, 2WD", 
+                    "Electric"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "935.00  ", 
+                    "monthlyRate": "2299.00 ", 
+                    "minimumRate": "355.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "355.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-40/23N", 
+                        "classification": 400, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E400AJP", 
+                        "classification": 400, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "955.00  ", 
+                    "monthlyRate": "2335.00 ", 
+                    "minimumRate": "370.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "370.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "955.00  ", 
+                    "monthlyRate": "2335.00 ", 
+                    "minimumRate": "370.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "370.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "Towable Trailer, 34 ft", 
+                    ""
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "605.00  ", 
+                    "monthlyRate": "1715.00 ", 
+                    "minimumRate": "225.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "225.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }
+        ]
+    }, 
+    "10001": {
+        "branch_zip_code": "11105", 
+        "branch_id": "9151", 
+        "equipment_list": [
+            {
+                "specs": [
+                    "34 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z34/22IC", 
+                        "classification": 340, 
+                        "year": 2006
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "34HA", 
+                        "classification": 340, 
+                        "year": 1999
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "850.00  ", 
+                    "monthlyRate": "1999.00 ", 
+                    "minimumRate": "370.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "370.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "450A", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "899.00  ", 
+                    "monthlyRate": "2165.00 ", 
+                    "minimumRate": "399.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "399.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2001
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1175.00 ", 
+                    "monthlyRate": "2850.00 ", 
+                    "minimumRate": "499.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "499.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1030.00 ", 
+                    "monthlyRate": "2060.00 ", 
+                    "minimumRate": "475.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "475.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z60/344W", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1450.00 ", 
+                    "monthlyRate": "3299.00 ", 
+                    "minimumRate": "625.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "625.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 2WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 467, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "899.00  ", 
+                    "monthlyRate": "2165.00 ", 
+                    "minimumRate": "399.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "399.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "ERROR  ", 
+                    "actualRate": "0.00      ", 
+                    "weeklyRate": "0.00    ", 
+                    "monthlyRate": "0.00    ", 
+                    "minimumRate": "0.00    ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "0.00    ", 
+                    "message": "No rates found for selected cat/class in branch/district/region               ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Genie", 
+                        "model": "Z45/254W", 
+                        "classification": 450, 
+                        "year": 2004
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1030.00 ", 
+                    "monthlyRate": "2060.00 ", 
+                    "minimumRate": "475.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "475.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600A", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1450.00 ", 
+                    "monthlyRate": "3299.00 ", 
+                    "minimumRate": "625.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "625.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "80 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Haulotte", 
+                        "model": "HA80JRT", 
+                        "classification": 800, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "800AJ", 
+                        "classification": 800, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "2855.00 ", 
+                    "monthlyRate": "5379.00 ", 
+                    "minimumRate": "1225.00 ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "1225.00 ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "125 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "1250AJP", 
+                        "classification": 930, 
+                        "year": 2005
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "4719.00 ", 
+                    "monthlyRate": "10775.00", 
+                    "minimumRate": "2040.00 ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "2040.00 ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "20 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-20/8N", 
+                        "classification": 200, 
+                        "year": 1997
+                    }
+                ], 
+                "rates": {
+                    "status": "ERROR  ", 
+                    "actualRate": "0.00      ", 
+                    "weeklyRate": "0.00    ", 
+                    "monthlyRate": "0.00    ", 
+                    "minimumRate": "0.00    ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "0.00    ", 
+                    "message": "No rates found for selected cat/class in branch/district/region               ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "30 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-30/20N", 
+                        "classification": 300, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E300AJ", 
+                        "classification": 300, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1010.00 ", 
+                    "monthlyRate": "1975.00 ", 
+                    "minimumRate": "435.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "435.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "34 ft, 2WD", 
+                    "Electric"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1010.00 ", 
+                    "monthlyRate": "1975.00 ", 
+                    "minimumRate": "435.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "435.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-40/23N", 
+                        "classification": 400, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E400AJP", 
+                        "classification": 400, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1030.00 ", 
+                    "monthlyRate": "2060.00 ", 
+                    "minimumRate": "475.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "475.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1030.00 ", 
+                    "monthlyRate": "2060.00 ", 
+                    "minimumRate": "475.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "475.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "Towable Trailer, 34 ft", 
+                    ""
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "615.00  ", 
+                    "monthlyRate": "1705.00 ", 
+                    "minimumRate": "225.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "225.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }
+        ]
+    }, 
+    "32011": {
+        "branch_zip_code": "32256", 
+        "branch_id": "9373", 
+        "equipment_list": [
+            {
+                "specs": [
+                    "34 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z34/22IC", 
+                        "classification": 340, 
+                        "year": 2006
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "34HA", 
+                        "classification": 340, 
+                        "year": 1999
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "699.00  ", 
+                    "monthlyRate": "1699.00 ", 
+                    "minimumRate": "285.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "285.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "450A", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "905.00  ", 
+                    "monthlyRate": "2220.00 ", 
+                    "minimumRate": "389.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "389.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2001
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1035.00 ", 
+                    "monthlyRate": "2330.00 ", 
+                    "minimumRate": "425.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "425.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "905.00  ", 
+                    "monthlyRate": "2220.00 ", 
+                    "minimumRate": "389.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "389.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z60/344W", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1245.00 ", 
+                    "monthlyRate": "2899.00 ", 
+                    "minimumRate": "539.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "539.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 2WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 467, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "740.00  ", 
+                    "monthlyRate": "1799.00 ", 
+                    "minimumRate": "315.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "315.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "765.00  ", 
+                    "monthlyRate": "2185.00 ", 
+                    "minimumRate": "305.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "305.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Genie", 
+                        "model": "Z45/254W", 
+                        "classification": 450, 
+                        "year": 2004
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "905.00  ", 
+                    "monthlyRate": "2220.00 ", 
+                    "minimumRate": "389.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "389.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600A", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1245.00 ", 
+                    "monthlyRate": "2899.00 ", 
+                    "minimumRate": "539.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "539.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "80 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Haulotte", 
+                        "model": "HA80JRT", 
+                        "classification": 800, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "800AJ", 
+                        "classification": 800, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "2000.00 ", 
+                    "monthlyRate": "4945.00 ", 
+                    "minimumRate": "955.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "955.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "125 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "1250AJP", 
+                        "classification": 930, 
+                        "year": 2005
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "3829.00 ", 
+                    "monthlyRate": "9100.00 ", 
+                    "minimumRate": "1675.00 ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "1675.00 ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "20 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-20/8N", 
+                        "classification": 200, 
+                        "year": 1997
+                    }
+                ], 
+                "rates": {
+                    "status": "ERROR  ", 
+                    "actualRate": "0.00      ", 
+                    "weeklyRate": "0.00    ", 
+                    "monthlyRate": "0.00    ", 
+                    "minimumRate": "0.00    ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "0.00    ", 
+                    "message": "No rates found for selected cat/class in branch/district/region               ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "30 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-30/20N", 
+                        "classification": 300, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E300AJ", 
+                        "classification": 300, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "825.00  ", 
+                    "monthlyRate": "1935.00 ", 
+                    "minimumRate": "345.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "345.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "34 ft, 2WD", 
+                    "Electric"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "725.00  ", 
+                    "monthlyRate": "1749.00 ", 
+                    "minimumRate": "295.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "295.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-40/23N", 
+                        "classification": 400, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E400AJP", 
+                        "classification": 400, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "850.00  ", 
+                    "monthlyRate": "2040.00 ", 
+                    "minimumRate": "360.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "360.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "850.00  ", 
+                    "monthlyRate": "2040.00 ", 
+                    "minimumRate": "360.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "360.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "Towable Trailer, 34 ft", 
+                    ""
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "690.00  ", 
+                    "monthlyRate": "1745.00 ", 
+                    "minimumRate": "295.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "295.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }
+        ]
+    }, 
+    "73301": {
+        "branch_zip_code": "78722", 
+        "branch_id": "9419", 
+        "equipment_list": [
+            {
+                "specs": [
+                    "34 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z34/22IC", 
+                        "classification": 340, 
+                        "year": 2006
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "34HA", 
+                        "classification": 340, 
+                        "year": 1999
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "765.00  ", 
+                    "monthlyRate": "1735.00 ", 
+                    "minimumRate": "299.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "299.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "450A", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "860.00  ", 
+                    "monthlyRate": "2099.00 ", 
+                    "minimumRate": "355.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "355.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2001
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1195.00 ", 
+                    "monthlyRate": "2930.00 ", 
+                    "minimumRate": "460.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "460.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "895.00  ", 
+                    "monthlyRate": "2199.00 ", 
+                    "minimumRate": "370.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "370.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z60/344W", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1195.00 ", 
+                    "monthlyRate": "2930.00 ", 
+                    "minimumRate": "460.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "460.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 2WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 467, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "940.00  ", 
+                    "monthlyRate": "2360.00 ", 
+                    "minimumRate": "385.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "385.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "840.00  ", 
+                    "monthlyRate": "2010.00 ", 
+                    "minimumRate": "345.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "345.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Genie", 
+                        "model": "Z45/254W", 
+                        "classification": 450, 
+                        "year": 2004
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "990.00  ", 
+                    "monthlyRate": "2415.00 ", 
+                    "minimumRate": "395.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "395.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600A", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1335.00 ", 
+                    "monthlyRate": "3105.00 ", 
+                    "minimumRate": "495.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "495.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "80 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Haulotte", 
+                        "model": "HA80JRT", 
+                        "classification": 800, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "800AJ", 
+                        "classification": 800, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "2775.00 ", 
+                    "monthlyRate": "6499.00 ", 
+                    "minimumRate": "915.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "915.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "125 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "1250AJP", 
+                        "classification": 930, 
+                        "year": 2005
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "5200.00 ", 
+                    "monthlyRate": "11250.00", 
+                    "minimumRate": "1550.00 ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "1550.00 ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "20 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-20/8N", 
+                        "classification": 200, 
+                        "year": 1997
+                    }
+                ], 
+                "rates": {
+                    "status": "ERROR  ", 
+                    "actualRate": "0.00      ", 
+                    "weeklyRate": "0.00    ", 
+                    "monthlyRate": "0.00    ", 
+                    "minimumRate": "0.00    ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "0.00    ", 
+                    "message": "No rates found for selected cat/class in branch/district/region               ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "30 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-30/20N", 
+                        "classification": 300, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E300AJ", 
+                        "classification": 300, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "779.00  ", 
+                    "monthlyRate": "1849.00 ", 
+                    "minimumRate": "309.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "309.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "34 ft, 2WD", 
+                    "Electric"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "765.00  ", 
+                    "monthlyRate": "1735.00 ", 
+                    "minimumRate": "299.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "299.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-40/23N", 
+                        "classification": 400, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E400AJP", 
+                        "classification": 400, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "950.00  ", 
+                    "monthlyRate": "2315.00 ", 
+                    "minimumRate": "375.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "375.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "950.00  ", 
+                    "monthlyRate": "2315.00 ", 
+                    "minimumRate": "375.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "375.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "Towable Trailer, 34 ft", 
+                    ""
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "700.00  ", 
+                    "monthlyRate": "1699.00 ", 
+                    "minimumRate": "280.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "280.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }
+        ]
+    }, 
+    "60290": {
+        "branch_zip_code": "60616", 
+        "branch_id": "9137", 
+        "equipment_list": [
+            {
+                "specs": [
+                    "34 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z34/22IC", 
+                        "classification": 340, 
+                        "year": 2006
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "34HA", 
+                        "classification": 340, 
+                        "year": 1999
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "735.00  ", 
+                    "monthlyRate": "1699.00 ", 
+                    "minimumRate": "305.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "305.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "450A", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "935.00  ", 
+                    "monthlyRate": "2445.00 ", 
+                    "minimumRate": "365.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "365.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 465, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2001
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1200.00 ", 
+                    "monthlyRate": "2899.00 ", 
+                    "minimumRate": "460.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "460.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2007
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "935.00  ", 
+                    "monthlyRate": "2445.00 ", 
+                    "minimumRate": "365.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "365.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Dual Fuel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 466, 
+                        "make": "Genie", 
+                        "model": "Z60/344W", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 466, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1200.00 ", 
+                    "monthlyRate": "2899.00 ", 
+                    "minimumRate": "460.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "460.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 2WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 467, 
+                        "make": "Genie", 
+                        "model": "Z45/252W", 
+                        "classification": 450, 
+                        "year": 2007
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "870.00  ", 
+                    "monthlyRate": "2199.00 ", 
+                    "minimumRate": "339.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "339.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "ERROR  ", 
+                    "actualRate": "0.00      ", 
+                    "weeklyRate": "0.00    ", 
+                    "monthlyRate": "0.00    ", 
+                    "minimumRate": "0.00    ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "0.00    ", 
+                    "message": "No rates found for selected cat/class in branch/district/region               ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Genie", 
+                        "model": "Z45/254W", 
+                        "classification": 450, 
+                        "year": 2004
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "935.00  ", 
+                    "monthlyRate": "2445.00 ", 
+                    "minimumRate": "365.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "365.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "60 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600A", 
+                        "classification": 600, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "600AJ", 
+                        "classification": 600, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "1200.00 ", 
+                    "monthlyRate": "2899.00 ", 
+                    "minimumRate": "460.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "460.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "80 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "Haulotte", 
+                        "model": "HA80JRT", 
+                        "classification": 800, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "800AJ", 
+                        "classification": 800, 
+                        "year": 2009
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "2100.00 ", 
+                    "monthlyRate": "5250.00 ", 
+                    "minimumRate": "855.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "855.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "125 ft, 4WD", 
+                    "Diesel"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 468, 
+                        "make": "JLG", 
+                        "model": "1250AJP", 
+                        "classification": 930, 
+                        "year": 2005
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "4260.00 ", 
+                    "monthlyRate": "10700.00", 
+                    "minimumRate": "1700.00 ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "1700.00 ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "20 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-20/8N", 
+                        "classification": 200, 
+                        "year": 1997
+                    }
+                ], 
+                "rates": {
+                    "status": "ERROR  ", 
+                    "actualRate": "0.00      ", 
+                    "weeklyRate": "0.00    ", 
+                    "monthlyRate": "0.00    ", 
+                    "minimumRate": "0.00    ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "0.00    ", 
+                    "message": "No rates found for selected cat/class in branch/district/region               ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "30 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-30/20N", 
+                        "classification": 300, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E300AJ", 
+                        "classification": 300, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "855.00  ", 
+                    "monthlyRate": "2050.00 ", 
+                    "minimumRate": "345.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "345.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "34 ft, 2WD", 
+                    "Electric"
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "855.00  ", 
+                    "monthlyRate": "2050.00 ", 
+                    "minimumRate": "345.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "345.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "40 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z-40/23N", 
+                        "classification": 400, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E400AJP", 
+                        "classification": 400, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "905.00  ", 
+                    "monthlyRate": "2290.00 ", 
+                    "minimumRate": "365.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "365.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "45 ft", 
+                    "Electric"
+                ], 
+                "makes & models": [
+                    {
+                        "category": 469, 
+                        "make": "Genie", 
+                        "model": "Z45/25J", 
+                        "classification": 450, 
+                        "year": 2008
+                    }, 
+                    {
+                        "category": 469, 
+                        "make": "JLG", 
+                        "model": "E450AJ", 
+                        "classification": 450, 
+                        "year": 2008
+                    }
+                ], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "905.00  ", 
+                    "monthlyRate": "2290.00 ", 
+                    "minimumRate": "365.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "365.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }, 
+            {
+                "specs": [
+                    "Towable Trailer, 34 ft", 
+                    ""
+                ], 
+                "makes & models": [], 
+                "rates": {
+                    "status": "SUCCESS", 
+                    "actualRate": "          ", 
+                    "weeklyRate": "675.00  ", 
+                    "monthlyRate": "1880.00 ", 
+                    "minimumRate": "230.00  ", 
+                    "contractCustomer": "N", 
+                    "dailyRate": "230.00  ", 
+                    "message": "                                                                              ", 
+                    "contractRates": "N"
+                }
+            }
+        ]
+    }
+}

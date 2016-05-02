@@ -1,0 +1,1275 @@
+[
+    {
+        "number": "#3214", 
+        "sq_feet": "585", 
+        "rent": "$2,100-$2,370", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,330.00", 
+            "7 Months": "$2,330.00", 
+            "8 Months": "$2,330.00", 
+            "9 Months": "$2,370.00", 
+            "10 Months": "$2,135.00", 
+            "11 Months": "$2,100.00", 
+            "12 Months": "$2,100.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,100.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,103.61", 
+            "Best Value:": "11 months term / Rent $2,100.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3214", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A01 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "585 sq. ft.", 
+            "Availability": "Available Now"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,100.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2106", 
+        "sq_feet": "585", 
+        "rent": "$2,100-$2,370", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,330.00", 
+            "7 Months": "$2,330.00", 
+            "8 Months": "$2,330.00", 
+            "9 Months": "$2,370.00", 
+            "10 Months": "$2,135.00", 
+            "11 Months": "$2,100.00", 
+            "12 Months": "$2,100.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,100.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,103.61", 
+            "Best Value:": "11 months term / Rent $2,100.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2106", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A01 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "585 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,100.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2208", 
+        "sq_feet": "585", 
+        "rent": "$2,100-$2,370", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,330.00", 
+            "7 Months": "$2,330.00", 
+            "8 Months": "$2,330.00", 
+            "9 Months": "$2,370.00", 
+            "10 Months": "$2,135.00", 
+            "11 Months": "$2,100.00", 
+            "12 Months": "$2,100.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,100.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,103.61", 
+            "Best Value:": "11 months term / Rent $2,100.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2208", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A01 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "585 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,100.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2303", 
+        "sq_feet": "585", 
+        "rent": "$2,100-$2,370", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,330.00", 
+            "7 Months": "$2,330.00", 
+            "8 Months": "$2,330.00", 
+            "9 Months": "$2,370.00", 
+            "10 Months": "$2,135.00", 
+            "11 Months": "$2,100.00", 
+            "12 Months": "$2,100.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,100.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,103.61", 
+            "Best Value:": "11 months term / Rent $2,100.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2303", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A01 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "585 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,100.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3314", 
+        "sq_feet": "585", 
+        "rent": "$2,100-$2,370", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,330.00", 
+            "7 Months": "$2,330.00", 
+            "8 Months": "$2,330.00", 
+            "9 Months": "$2,370.00", 
+            "10 Months": "$2,100.00", 
+            "11 Months": "$2,100.00", 
+            "12 Months": "$2,150.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,150.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,153.61", 
+            "Best Value:": "10 months term / Rent $2,100.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3314", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A01 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "585 sq. ft.", 
+            "Availability": "5/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,150.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1215", 
+        "sq_feet": "721", 
+        "rent": "$2,480-$2,750", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,710.00", 
+            "7 Months": "$2,710.00", 
+            "8 Months": "$2,750.00", 
+            "9 Months": "$2,710.00", 
+            "10 Months": "$2,480.00", 
+            "11 Months": "$2,480.00", 
+            "12 Months": "$2,530.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,530.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,533.61", 
+            "Best Value:": "10 months term / Rent $2,480.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1215", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A03 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "721 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,530.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1315", 
+        "sq_feet": "721", 
+        "rent": "$2,480-$2,770", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,770.00", 
+            "7 Months": "$2,735.00", 
+            "8 Months": "$2,710.00", 
+            "9 Months": "$2,710.00", 
+            "10 Months": "$2,480.00", 
+            "11 Months": "$2,490.00", 
+            "12 Months": "$2,495.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,495.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,498.61", 
+            "Best Value:": "10 months term / Rent $2,480.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1315", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A03 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "721 sq. ft.", 
+            "Availability": "7/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "7/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,495.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1415", 
+        "sq_feet": "875", 
+        "rent": "$2,905-$3,225", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,180.00", 
+            "7 Months": "$3,180.00", 
+            "8 Months": "$3,180.00", 
+            "9 Months": "$3,225.00", 
+            "10 Months": "$2,950.00", 
+            "11 Months": "$2,905.00", 
+            "12 Months": "$2,905.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,905.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,908.61", 
+            "Best Value:": "11 months term / Rent $2,905.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1415", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A05 - 1 BEDROOM / 1 BATH PENTHOUSE LOFT", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "875 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,905.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1312", 
+        "sq_feet": "725", 
+        "rent": "$2,220-$2,490", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,450.00", 
+            "7 Months": "$2,450.00", 
+            "8 Months": "$2,450.00", 
+            "9 Months": "$2,490.00", 
+            "10 Months": "$2,255.00", 
+            "11 Months": "$2,220.00", 
+            "12 Months": "$2,220.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,220.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,223.61", 
+            "Best Value:": "11 months term / Rent $2,220.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1312", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A06 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "725 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,220.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1202", 
+        "sq_feet": "725", 
+        "rent": "$2,220-$2,490", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,450.00", 
+            "7 Months": "$2,450.00", 
+            "8 Months": "$2,450.00", 
+            "9 Months": "$2,490.00", 
+            "10 Months": "$2,220.00", 
+            "11 Months": "$2,220.00", 
+            "12 Months": "$2,270.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,270.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,273.61", 
+            "Best Value:": "10 months term / Rent $2,220.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1202", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A06 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "725 sq. ft.", 
+            "Availability": "5/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,270.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1114", 
+        "sq_feet": "725", 
+        "rent": "$2,220-$2,490", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,450.00", 
+            "7 Months": "$2,450.00", 
+            "8 Months": "$2,490.00", 
+            "9 Months": "$2,450.00", 
+            "10 Months": "$2,220.00", 
+            "11 Months": "$2,220.00", 
+            "12 Months": "$2,270.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,270.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,273.61", 
+            "Best Value:": "10 months term / Rent $2,220.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1114", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A06 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "725 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,270.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1311", 
+        "sq_feet": "725", 
+        "rent": "$2,220-$2,490", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,450.00", 
+            "7 Months": "$2,450.00", 
+            "8 Months": "$2,490.00", 
+            "9 Months": "$2,450.00", 
+            "10 Months": "$2,220.00", 
+            "11 Months": "$2,220.00", 
+            "12 Months": "$2,270.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,270.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,273.61", 
+            "Best Value:": "10 months term / Rent $2,220.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1311", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A06 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "725 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,270.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2110", 
+        "sq_feet": "725", 
+        "rent": "$2,220-$2,490", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,450.00", 
+            "7 Months": "$2,450.00", 
+            "8 Months": "$2,490.00", 
+            "9 Months": "$2,450.00", 
+            "10 Months": "$2,220.00", 
+            "11 Months": "$2,220.00", 
+            "12 Months": "$2,270.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,270.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,273.61", 
+            "Best Value:": "10 months term / Rent $2,220.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2110", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A06 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "725 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,270.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3205", 
+        "sq_feet": "819", 
+        "rent": "$2,300-$2,570", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,530.00", 
+            "7 Months": "$2,530.00", 
+            "8 Months": "$2,570.00", 
+            "9 Months": "$2,530.00", 
+            "10 Months": "$2,300.00", 
+            "11 Months": "$2,300.00", 
+            "12 Months": "$2,350.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,350.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,353.61", 
+            "Best Value:": "10 months term / Rent $2,300.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3205", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A07 - 1 BEDROOM / 1 BATH WITH RETREAT", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "819 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,350.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1106", 
+        "sq_feet": "819", 
+        "rent": "$2,300-$2,590", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,590.00", 
+            "7 Months": "$2,555.00", 
+            "8 Months": "$2,530.00", 
+            "9 Months": "$2,530.00", 
+            "10 Months": "$2,300.00", 
+            "11 Months": "$2,310.00", 
+            "12 Months": "$2,315.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,315.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,318.61", 
+            "Best Value:": "10 months term / Rent $2,300.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1106", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A07 - 1 BEDROOM / 1 BATH WITH RETREAT", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "819 sq. ft.", 
+            "Availability": "7/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "7/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,315.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3101", 
+        "sq_feet": "884", 
+        "rent": "$2,705-$2,975", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,935.00", 
+            "7 Months": "$2,935.00", 
+            "8 Months": "$2,935.00", 
+            "9 Months": "$2,975.00", 
+            "10 Months": "$2,740.00", 
+            "11 Months": "$2,705.00", 
+            "12 Months": "$2,705.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,705.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,708.61", 
+            "Best Value:": "11 months term / Rent $2,705.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3101", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A08 - 1 BEDROOM / 1 BATH", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "884 sq. ft.", 
+            "Availability": "Available Now"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,705.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3418", 
+        "sq_feet": "943", 
+        "rent": "$2,745-$3,065", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,020.00", 
+            "7 Months": "$3,020.00", 
+            "8 Months": "$3,020.00", 
+            "9 Months": "$3,065.00", 
+            "10 Months": "$2,790.00", 
+            "11 Months": "$2,745.00", 
+            "12 Months": "$2,745.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,745.00", 
+            "Best Value:": "11 months term / Rent $2,745.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3418", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A09 - 1 BEDROOM / 1 BATH PENTHOUSE LOFT", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "943 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,745.00"
+        }
+    }, 
+    {
+        "number": "#1401", 
+        "sq_feet": "943", 
+        "rent": "$2,745-$3,065", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,020.00", 
+            "7 Months": "$3,020.00", 
+            "8 Months": "$3,065.00", 
+            "9 Months": "$3,020.00", 
+            "10 Months": "$2,745.00", 
+            "11 Months": "$2,745.00", 
+            "12 Months": "$2,810.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,810.00", 
+            "Best Value:": "10 months term / Rent $2,745.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1401", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A09 - 1 BEDROOM / 1 BATH PENTHOUSE LOFT", 
+            "Beds/Baths": "1 bed/1 bath", 
+            "Area": "943 sq. ft.", 
+            "Availability": "5/26/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/26/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "$2,810.00"
+        }
+    }, 
+    {
+        "number": "#2418", 
+        "sq_feet": "1398", 
+        "rent": "Call", 
+        "deposit": "$1,000", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "Call", 
+            "7 Months": "Call", 
+            "8 Months": "Call", 
+            "9 Months": "Call", 
+            "10 Months": "Call", 
+            "11 Months": "Call", 
+            "12 Months": "Call"
+        }, 
+        "details_data": {
+            "Rent:": "Pending", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$3.61"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2418", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "A12 - 1 BEDROOM / 1 BATH PENTHOUSE LOFT WITH RETREAT AND DEN", 
+            "Beds/Baths": "1 bed/2 baths", 
+            "Area": "1,398 sq. ft.", 
+            "Availability": "1/21/2017"
+        }, 
+        "lease_info": {
+            "Move-in Date": "1/21/2017", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,000.00", 
+            "Rent": "Pending", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2322", 
+        "sq_feet": "1121", 
+        "rent": "$3,210-$3,630", 
+        "deposit": "$1,500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,540.00", 
+            "7 Months": "$3,630.00", 
+            "8 Months": "$3,540.00", 
+            "9 Months": "$3,595.00", 
+            "10 Months": "$3,255.00", 
+            "11 Months": "$3,210.00", 
+            "12 Months": "$3,300.00"
+        }, 
+        "details_data": {
+            "Rent:": "$3,300.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$3,303.61", 
+            "Best Value:": "11 months term / Rent $3,210.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2322", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "B01 - 2 BEDROOM / 2 BATH", 
+            "Beds/Baths": "2 beds/2 baths", 
+            "Area": "1,121 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,500.00", 
+            "Rent": "$3,300.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2222", 
+        "sq_feet": "1121", 
+        "rent": "$3,250-$3,660", 
+        "deposit": "$1,500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,540.00", 
+            "7 Months": "$3,590.00", 
+            "8 Months": "$3,660.00", 
+            "9 Months": "$3,540.00", 
+            "10 Months": "$3,250.00", 
+            "11 Months": "$3,255.00", 
+            "12 Months": "$3,305.00"
+        }, 
+        "details_data": {
+            "Rent:": "$3,305.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$3,308.61", 
+            "Best Value:": "10 months term / Rent $3,250.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2222", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "B01 - 2 BEDROOM / 2 BATH", 
+            "Beds/Baths": "2 beds/2 baths", 
+            "Area": "1,121 sq. ft.", 
+            "Availability": "7/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "7/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,500.00", 
+            "Rent": "$3,305.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3326", 
+        "sq_feet": "1129", 
+        "rent": "$3,210-$3,605", 
+        "deposit": "$1,500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,580.00", 
+            "7 Months": "$3,540.00", 
+            "8 Months": "$3,605.00", 
+            "9 Months": "$3,540.00", 
+            "10 Months": "$3,220.00", 
+            "11 Months": "$3,290.00", 
+            "12 Months": "$3,210.00"
+        }, 
+        "details_data": {
+            "Rent:": "$3,210.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$3,213.61", 
+            "Best Value:": "12 months term / Rent $3,210.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3326", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "B02 - - 2 BEDROOM / 2 BATH", 
+            "Beds/Baths": "2 beds/2 baths", 
+            "Area": "1,129 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,500.00", 
+            "Rent": "$3,210.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2417", 
+        "sq_feet": "1309", 
+        "rent": "$3,560-$3,985", 
+        "deposit": "$1,500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,960.00", 
+            "7 Months": "$3,920.00", 
+            "8 Months": "$3,985.00", 
+            "9 Months": "$3,920.00", 
+            "10 Months": "$3,575.00", 
+            "11 Months": "$3,650.00", 
+            "12 Months": "$3,560.00"
+        }, 
+        "details_data": {
+            "Rent:": "$3,560.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$3,563.61", 
+            "Best Value:": "12 months term / Rent $3,560.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2417", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "B03 - 2 BEDROOM / 2 BATH PENTHOUSE LOFT", 
+            "Beds/Baths": "2 beds/2 baths", 
+            "Area": "1,309 sq. ft.", 
+            "Availability": "Available Now"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,500.00", 
+            "Rent": "$3,560.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1117", 
+        "sq_feet": "1191", 
+        "rent": "$3,450-$3,860", 
+        "deposit": "$1,500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,740.00", 
+            "7 Months": "$3,790.00", 
+            "8 Months": "$3,860.00", 
+            "9 Months": "$3,740.00", 
+            "10 Months": "$3,450.00", 
+            "11 Months": "$3,455.00", 
+            "12 Months": "$3,505.00"
+        }, 
+        "details_data": {
+            "Rent:": "$3,505.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$3,508.61", 
+            "Best Value:": "10 months term / Rent $3,450.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1117", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "B05 - 2 BEDROOM / 2 BATH", 
+            "Beds/Baths": "2 beds/2 baths", 
+            "Area": "1,191 sq. ft.", 
+            "Availability": "7/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "7/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,500.00", 
+            "Rent": "$3,505.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2201", 
+        "sq_feet": "1191", 
+        "rent": "$3,450-$3,860", 
+        "deposit": "$1,500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$3,740.00", 
+            "7 Months": "$3,790.00", 
+            "8 Months": "$3,860.00", 
+            "9 Months": "$3,740.00", 
+            "10 Months": "$3,450.00", 
+            "11 Months": "$3,455.00", 
+            "12 Months": "$3,505.00"
+        }, 
+        "details_data": {
+            "Rent:": "$3,505.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$3,508.61", 
+            "Best Value:": "10 months term / Rent $3,450.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2201", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "B05 - 2 BEDROOM / 2 BATH", 
+            "Beds/Baths": "2 beds/2 baths", 
+            "Area": "1,191 sq. ft.", 
+            "Availability": "7/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "7/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,500.00", 
+            "Rent": "$3,505.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#1406", 
+        "sq_feet": "1672", 
+        "rent": "$4,810-$5,235", 
+        "deposit": "$1,500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$5,210.00", 
+            "7 Months": "$5,170.00", 
+            "8 Months": "$5,235.00", 
+            "9 Months": "$5,170.00", 
+            "10 Months": "$4,825.00", 
+            "11 Months": "$4,900.00", 
+            "12 Months": "$4,810.00"
+        }, 
+        "details_data": {
+            "Rent:": "$4,810.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$4,813.61", 
+            "Best Value:": "12 months term / Rent $4,810.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "1406", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "B09 - 2 BEDROOM / 2 BATH PENTHOUSE LOFT WITH 2 RETREATS", 
+            "Beds/Baths": "2 beds/2 baths", 
+            "Area": "1,672 sq. ft.", 
+            "Availability": "Available Now"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$1,500.00", 
+            "Rent": "$4,810.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3203", 
+        "sq_feet": "617", 
+        "rent": "$1,985-$2,255", 
+        "deposit": "$500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,215.00", 
+            "7 Months": "$2,215.00", 
+            "8 Months": "$2,215.00", 
+            "9 Months": "$2,255.00", 
+            "10 Months": "$2,020.00", 
+            "11 Months": "$1,985.00", 
+            "12 Months": "$1,985.00"
+        }, 
+        "details_data": {
+            "Rent:": "$1,985.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$1,988.61", 
+            "Best Value:": "11 months term / Rent $1,985.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3203", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "E01 - STUDIO", 
+            "Beds/Baths": "Studio/1 bath", 
+            "Area": "617 sq. ft.", 
+            "Availability": "Available Now"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$500.00", 
+            "Rent": "$1,985.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3303", 
+        "sq_feet": "617", 
+        "rent": "$1,985-$2,255", 
+        "deposit": "$500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,215.00", 
+            "7 Months": "$2,215.00", 
+            "8 Months": "$2,215.00", 
+            "9 Months": "$2,255.00", 
+            "10 Months": "$2,020.00", 
+            "11 Months": "$1,985.00", 
+            "12 Months": "$1,985.00"
+        }, 
+        "details_data": {
+            "Rent:": "$1,985.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$1,988.61", 
+            "Best Value:": "11 months term / Rent $1,985.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3303", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "E01 - STUDIO", 
+            "Beds/Baths": "Studio/1 bath", 
+            "Area": "617 sq. ft.", 
+            "Availability": "Available Now"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$500.00", 
+            "Rent": "$1,985.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3223", 
+        "sq_feet": "617", 
+        "rent": "$1,985-$2,255", 
+        "deposit": "$500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,215.00", 
+            "7 Months": "$2,215.00", 
+            "8 Months": "$2,215.00", 
+            "9 Months": "$2,255.00", 
+            "10 Months": "$2,020.00", 
+            "11 Months": "$1,985.00", 
+            "12 Months": "$1,985.00"
+        }, 
+        "details_data": {
+            "Rent:": "$1,985.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$1,988.61", 
+            "Best Value:": "11 months term / Rent $1,985.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3223", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "E01 - STUDIO", 
+            "Beds/Baths": "Studio/1 bath", 
+            "Area": "617 sq. ft.", 
+            "Availability": "5/1/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "5/1/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$500.00", 
+            "Rent": "$1,985.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3412", 
+        "sq_feet": "751", 
+        "rent": "$2,620-$2,940", 
+        "deposit": "$500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,895.00", 
+            "7 Months": "$2,895.00", 
+            "8 Months": "$2,940.00", 
+            "9 Months": "$2,895.00", 
+            "10 Months": "$2,620.00", 
+            "11 Months": "$2,620.00", 
+            "12 Months": "$2,685.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,685.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,688.61", 
+            "Best Value:": "10 months term / Rent $2,620.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3412", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "E02 - STUDIO LOFT", 
+            "Beds/Baths": "Studio/1 bath", 
+            "Area": "751 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$500.00", 
+            "Rent": "$2,685.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#3414", 
+        "sq_feet": "751", 
+        "rent": "$2,620-$2,940", 
+        "deposit": "$500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,895.00", 
+            "7 Months": "$2,895.00", 
+            "8 Months": "$2,940.00", 
+            "9 Months": "$2,895.00", 
+            "10 Months": "$2,620.00", 
+            "11 Months": "$2,620.00", 
+            "12 Months": "$2,685.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,685.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,688.61", 
+            "Best Value:": "10 months term / Rent $2,620.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "3414", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "E02 - STUDIO LOFT", 
+            "Beds/Baths": "Studio/1 bath", 
+            "Area": "751 sq. ft.", 
+            "Availability": "6/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "6/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$500.00", 
+            "Rent": "$2,685.00", 
+            "SCEP fee": "$3.61"
+        }
+    }, 
+    {
+        "number": "#2403", 
+        "sq_feet": "751", 
+        "rent": "$2,620-$2,965", 
+        "deposit": "$500", 
+        "terms_data": {
+            "3 Months": "Call", 
+            "4 Months": "Call", 
+            "5 Months": "Call", 
+            "6 Months": "$2,965.00", 
+            "7 Months": "$2,920.00", 
+            "8 Months": "$2,895.00", 
+            "9 Months": "$2,895.00", 
+            "10 Months": "$2,620.00", 
+            "11 Months": "$2,635.00", 
+            "12 Months": "$2,640.00"
+        }, 
+        "details_data": {
+            "Rent:": "$2,640.00", 
+            "SCEP fee:": "$3.61", 
+            "Net Rent:": "$2,643.61", 
+            "Best Value:": "10 months term / Rent $2,620.00"
+        }, 
+        "apartment_summary": {
+            "Apartment": "2403", 
+            "Address": "1714 N McCadden Pl", 
+            "Address2": "Hollywood, CA 90028", 
+            "Floor Plan": "E02 - STUDIO LOFT", 
+            "Beds/Baths": "Studio/1 bath", 
+            "Area": "751 sq. ft.", 
+            "Availability": "7/5/2016"
+        }, 
+        "lease_info": {
+            "Move-in Date": "7/5/2016", 
+            "Lease Term": "12 months", 
+            "Deposit": "$500.00", 
+            "Rent": "$2,640.00", 
+            "SCEP fee": "$3.61"
+        }
+    }
+]
